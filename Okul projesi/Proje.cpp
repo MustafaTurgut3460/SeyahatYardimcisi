@@ -1,8 +1,3 @@
-/*1-Yil icin bence sadece 2021 icin hizmet verelim yoksa kullanici 2024 girebiliyor
-2-Tesislerin hepsini header dosyasina yazalim ve oradan cagiralim burada kalabalik olmasin
-3-Kullanicilarin seyahat bilgilerini de kaydedebiliriz. Ana menude yorumlar kismindan ayri olarak kullanicilarin seyahat bilgilerinin de
-gösterildigi bir kisim olabilir. Sisteme kayit yaptirmis gibi yani.*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
